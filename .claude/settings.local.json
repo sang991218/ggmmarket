@@ -9,7 +9,9 @@
       "mcp__supabase__get_advisors",
       "Bash(npm run dev:*)",
       "Bash(git diff:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   },
   "enableAllProjectMcpServers": true,
